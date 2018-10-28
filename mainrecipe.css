@@ -1,0 +1,65 @@
+
+
+header{  
+    background-image: url("../images/apple-pie.jpg");
+    background-size: cover;
+    height:100%;
+    margin-top: -10%;
+    width: 100%;
+
+}
+.applepiestext{
+    font-size: 5em;
+    font-family:sans-serif;
+    color: white;
+    padding-left: 35%;
+    padding-top: 35%;
+
+}
+.headertext{
+    font-family:sans-serif;
+    font-size: x-large;
+    font-weight: 100;
+    color:#696969;
+    padding-top: 8%;
+    padding-left: 15%;
+}
+img{ 
+    padding-top: 5%;
+    padding-left: 12%;
+}
+.preparation-part{
+    font-family:sans-serif;
+    font-size: x-large;
+    font-weight: 100;
+    color:#696969;
+    padding-top: 2%;
+    padding-left: 15%;
+
+}
+h2{
+    font-family:sans-serif;
+    font-size: x-large;
+    color:#696969;
+    padding-top: 2%;
+    padding-left: 0%;
+    font-style: initial;
+
+}
+ul{
+    list-style: none;
+}
+.french-onion-soup-text{
+    font-size: 5em;
+    font-family:sans-serif;
+    color: white;
+    padding-left: 28%;
+    padding-top: 35%;
+    background-image: url("onion-soup/soupone.jpg");
+    background-size: cover;
+    height:30rem;
+    width: unset;
+    
+
+
+}
